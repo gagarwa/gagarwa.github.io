@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: times, serif;
+    font-weight: bold;
+}
+
+pre {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: gray;
+}

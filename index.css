@@ -1,44 +1,73 @@
 div#title {
-    background-color: black;
-    color: white;
-    clear: both;
     text-align: center;
+    background-color: #E02D28;
+    color: white;
     padding: 1%;
 }
 div#nav {
-    line-height: 5%;
-    background-color: #EEEEEE;
-    width: 12%;
-    height: 100%;
-    float: left;
+    background-color: #FDBE0F;
+    height: 5%;
     padding: 1%;
 }
-div#section {
-    /* background-color: #FFFFFF; */
-    background-image: url("flowers.jpg");
-    width: 84%;
-    float: left;
+div#about {
+    word-wrap: break-word;
+    background-color: #007AC3;
+    width: 98%;
+    padding: 1%;
+}
+div#projects {
+    background-color: #62B944;
+    padding: 1%;
+}
+div#contact {
+    background-color: #C0965D;
     padding: 1%;
 }
 div#footer {
-    background-color: black;
+    background-color: #4CC9E3;
     color: white;
     clear: both;
     text-align: center;
     padding: 1%;
 }
 
+p {
+    word-wrap: break-word;
+}
+
 pre {
+    display: inline;
     font-family: times, serif;
 }
-img#home {
-    width: 5%;
-    height: 5%;
-}
+
 a {
     text-decoration: none;
     color: white;
 }
+
+a#nav {
+    text-decoration: none;
+    color: white;
+}
+
+a#contact {
+    text-decoration: none;
+    color: blue;
+}
+
+h3#sub {
+    margin-bottom: 0px;
+}
+
+h5#sub {
+    margin-top: 0px;
+}
+
+img {
+    width: 25%;
+    height: 3%;
+}
+
 iframe {
     width: 100%;
     height: 100%;
