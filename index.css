@@ -1,0 +1,45 @@
+div#title {
+    background-color: black;
+    color: white;
+    clear: both;
+    text-align: center;
+    padding: 1%;
+}
+div#nav {
+    line-height: 5%;
+    background-color: #EEEEEE;
+    width: 12%;
+    height: 100%;
+    float: left;
+    padding: 1%;
+}
+div#section {
+    background-color: #FFFFFF;
+    width: 84%;
+    float: left;
+    padding: 1%;
+}
+div#footer {
+    background-color: black;
+    color: white;
+    clear: both;
+    text-align: center;
+    padding: 1%;
+}
+
+pre {
+    font-family: times, serif;
+}
+img#home {
+    width: 5%;
+    height: 5%;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
