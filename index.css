@@ -6,6 +6,9 @@ div#title {
 }
 div#nav {
     background-color: #FDBE0F;
+    text-align: center;
+    font-family: times, serif;
+    font-weight: bold;
     height: 5%;
     padding: 1%;
 }
@@ -50,6 +53,10 @@ a#nav {
     color: white;
 }
 
+a#nav:hover {
+    color: gray;
+}
+
 a#contact {
     text-decoration: none;
     color: blue;
@@ -70,6 +77,6 @@ img {
 
 iframe {
     width: 100%;
-    height: 100%;
+    height: 50%;
     border: none;
 }
