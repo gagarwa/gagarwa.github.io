@@ -4,7 +4,7 @@ div#title {
     color: white;
     padding: 1%;
 }
-div#nav {
+div.nav {
     background-color: #FDBE0F;
     text-align: center;
     font-family: times, serif;
@@ -48,13 +48,13 @@ a {
     color: white;
 }
 
-a#nav {
+a.nav {
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
-a#nav:hover {
-    color: gray;
+a.nav:hover {
+    color: white;
 }
 
 a#contact {
