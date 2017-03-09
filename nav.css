@@ -10,9 +10,9 @@ pre {
 
 a {
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
-/*a:hover {
+a:hover {
     color: gray;
 }
