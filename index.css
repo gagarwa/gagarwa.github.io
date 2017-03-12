@@ -2,10 +2,16 @@
 
 body {
     background-color: #CCCCCC;
+    margin: 0%;
 }
 
 pre {
     display: inline;
+}
+
+div.content {
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 /* Title Class */
